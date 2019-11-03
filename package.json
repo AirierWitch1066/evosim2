@@ -1,0 +1,28 @@
+{
+  "name": "evosim2",
+  "version": "0.1.0",
+  "description": "Program to simulate evolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirierWitch1066/evosim2.git"
+  },
+  "author": "Lillian N. <airierwitch1066@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirierWitch1066/evosim2/issues"
+  },
+  "homepage": "https://github.com/AirierWitch1066/evosim2#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
