@@ -1,0 +1,8 @@
+{
+  "extends": "./moleculer",
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "dist"
+  }
+}

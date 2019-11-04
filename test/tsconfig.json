@@ -1,0 +1,7 @@
+{
+  "extends": "../moleculer",
+  "compilerOptions": {
+    "noEmit": true,
+    "baseUrl": "./"
+  }
+}

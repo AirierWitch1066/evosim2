@@ -4,7 +4,7 @@
   "description": "Program to simulate evolution",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -26,9 +26,13 @@
   "dependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
     "@babel/preset-typescript": "^7.6.0",
     "jest": "^24.9.0",
+    "jest-junit": "^9.0.0",
+    "moleculer": "^0.13.11",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "react-test-renderer": "^16.11.0"
   }
 }
